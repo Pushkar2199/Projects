@@ -1,1 +1,6 @@
-house price prediction
+This project involved exploratory data analysis (EDA) using Python libraries such as pandas, numpy, matplotlib, and seaborn.
+The Jupyter Notebook was utilized to perform data exploration and identify potential patterns and trends within the dataset.
+Feature engineering techniques were applied to transform and extract useful information from the data,
+enhancing the predictive power of the model. Additionally, statistical tests were employed to select important features,
+determining the variables most relevant for predicting the desired outcome.A robust predictive model was developed using regression techniques,
+which achieved high accuracy on the test data. The model's performance was assessed using appropriate evaluation metrics.

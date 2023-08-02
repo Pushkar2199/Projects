@@ -16,11 +16,7 @@ which focuses on providing insights to the marketing team in the Food & Beverage
 The challenge involves analyzing survey data from CodeX, a German beverage company that has recently launched its energy drink in 10 cities in India.
 The goal is to derive meaningful insights from the survey results to help the marketing team make informed decisions.
 
-12
-13
-14
-15
-16
+
 
 Challenge Details
 

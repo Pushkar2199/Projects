@@ -9,11 +9,12 @@ https://lnkd.in/d2VsqE8H
 
 
 Codebasics Resume Challenge 6: Marketing Insights for CodeX Beverage Company
-Introduction
+
+Introduction :
 This repository contains the submission for the Codebasics Resume Challenge 6, 
 which focuses on providing insights to the marketing team in the Food & Beverage industry. 
 The challenge involves analyzing survey data from CodeX, a German beverage company that has recently launched its energy drink in 10 cities in India.
- The goal is to derive meaningful insights from the survey results to help the marketing team make informed decisions.
+The goal is to derive meaningful insights from the survey results to help the marketing team make informed decisions.
 
 
 Challenge Details
@@ -33,7 +34,6 @@ Watch Video Presentation : https://lnkd.in/d2VsqE8H
 
 Code Files: The analysis has been conducted using MySQL for data manipulation, Power BI for visualization,
 and Canva for designing graphical assets. The code files used for data preprocessing, analysis, and visualization are provided in separate directories.
-
 
 
 mysql_analysis: Contains SQL queries used to preprocess and clean the survey data.

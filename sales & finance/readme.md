@@ -27,8 +27,3 @@ Download: Fetch the desired report(s) for analysis.
 Access: Open the reports using any PDF viewer to explore detailed insights.
 Action: Leverage the data and actionable recommendations for informed decision-making.
 Feel free to contribute, suggest improvements, or leverage these reports to fortify your business strategies!
-
-
-
-
-[merged.pdf](https://github.com/Pushkar2199/Projects/files/13689479/merged.pdf)

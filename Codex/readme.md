@@ -7,7 +7,6 @@ Watch Video Presentation  -
 https://lnkd.in/d2VsqE8H
 
 
-
 Codebasics Resume Challenge 6: Marketing Insights for CodeX Beverage Company
 
 Introduction :

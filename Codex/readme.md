@@ -27,8 +27,6 @@ Video Presentation: A video presentation has been created to showcase the insigh
 The presentation elaborates on the findings and provides a visual representation of the data analysis.
 
 
-Watch Video Presentation : https://lnkd.in/d2VsqE8H
-
 Code Files: The analysis has been conducted using MySQL for data manipulation, Power BI for visualization,
 and Canva for designing graphical assets. The code files used for data preprocessing, analysis, and visualization are provided in separate directories.
 

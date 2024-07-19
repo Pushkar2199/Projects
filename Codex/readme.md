@@ -1,6 +1,3 @@
-LinkDin  Post - 
-
-https://www.linkedin.com/posts/pushkar-khare-1819b8272_code-basics-part-1-activity-7086253534593060864-GnYb?utm_source=share&utm_medium=member_desktop
 
 Watch Video Presentation  -
 
